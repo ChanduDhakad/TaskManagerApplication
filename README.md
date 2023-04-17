@@ -25,7 +25,9 @@ Masai Task Manager Application is a web-based application for managing tasks. It
 # Modules
 
 - User Module
-- Event Module
+- Login Module
+- CurrentLoginSession Module
+- Task Module
 
 
 
